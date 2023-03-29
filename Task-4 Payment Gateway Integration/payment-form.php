@@ -24,6 +24,7 @@
 	    <input type="text" name="contactno">
 
 		 <input type="submit" name="submit" value="Proceed to Pay">
+	    
 	</form>
 </body>
 </html>
